@@ -1,10 +1,5 @@
 # AllenConnectivity_SDK
-Here you will find scripts to access and interact with the Allen Connectivity Atlas SDK.
-
-# AllenSDK_scripts
-
-Code to access the Allen Brain Connectivity Atlas via AllenSDK.  
-A series of examples are provided in the scripts.  
+Here you will find scripts to access and interact with the Allen Connectivity Atlas SDK.  
 For more detailed information and examples, look at:  
 
 - https://github.com/AllenInstitute/SWDB_2019/blob/master/DynamicBrain/solutions/Other/Connectivity_solutions.ipynb  
